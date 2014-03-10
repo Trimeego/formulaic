@@ -1,0 +1,16 @@
+{
+  "name": "formulaic",
+  "main": "./lib/formulaic",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Uses mathjs to evaluate selections and replace with results",
+  "activationEvents": ["formulaic:evaluate"],
+  "repository": "https://github.com/atom/formulaic",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+    "mathjs":"~0.18.1"
+  }
+}
