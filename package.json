@@ -5,7 +5,7 @@
   "private": true,
   "description": "Uses mathjs to evaluate selections and replace with results",
   "activationEvents": ["formulaic:evaluate"],
-  "repository": "https://github.com/Trimeego/formulaic.git",
+  "repository": "https://github.com/Trimeego/formulaic",
   "license": "MIT",
   "engines": {
     "atom": ">0.50.0"
